@@ -1,0 +1,12 @@
+{
+  "openai": {
+    "api_key": "your-openai-api-key-here",
+    "base_url": "",
+    "model": "gpt-4"
+  },
+  "agent": {
+    "api_key": "your-openai-api-key-here",
+    "base_url": "",
+    "model": "claude-sonnet-4-20250514"
+  }
+}
